@@ -71,7 +71,7 @@ https://iist-mirpur.edu.bd
 ### 10. Image Syntex  
 <!-- ![alt text](image)     -->
 <!-- ![Profile Image](./RezaMeet.jpg)   -->  
-<img src="./RezaMeet.jpg" width="100%" height="200" title="Profile Image"/>
+<img src="./RezaMeet.jpg" width="100%" height="400" title="Profile Image"/>
 ❤️  
 
 ### Table  
